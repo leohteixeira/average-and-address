@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leohteixeira/case-me-poupe/issues"
   },
-  "homepage": "https://github.com/leohteixeira/case-me-poupe#readme"
+  "homepage": "https://github.com/leohteixeira/case-me-poupe#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
