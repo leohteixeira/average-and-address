@@ -1,0 +1,19 @@
+{
+  "name": "case-me-poupe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leohteixeira/case-me-poupe.git"
+  },
+  "author": "Leonardo Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leohteixeira/case-me-poupe/issues"
+  },
+  "homepage": "https://github.com/leohteixeira/case-me-poupe#readme"
+}
