@@ -1,8 +1,10 @@
 # Case Me Poupe!
 
-API feita com **Node.Js** usando **Typescript**. Foi utilizado o **Express** para construção do servidor, **Jest** para realizar os testes unitários, **Supertest** para auxiliar nos testes e2e, **Docker** para subir a infraestrutura.
+API feita com **Node.Js** usando **Typescript**. Foi utilizado o **Express** para construção do servidor, **Jest** para realizar os testes unitários, **Supertest** para auxiliar nos testes e2e, **Winston** para gerar os logs, **Docker** para subir a infraestrutura.
 
 O projeto foi arquitetado baseado nos princípios do **Clean Architecture** utilizando o **domain layer** contendo as regras de negócio, o **data layer** contendo a implementação das regras de negócio, o **infra layer** contendo os frameworks e drivers para comunicação externa, o **presentation layer** com os controladores das rotas, e no **main layer** contendo a composição das rotas e do servidor.
+
+Os logs serão salvos no formato JSON em arquivos na pasta **logs** na raiz do projeto.
 
 ## Para rodar o servidor:
 
@@ -66,5 +68,3 @@ $ npm run test:ci
 ```
 
 - Para acessar: coverage/Icov-report/index.html
-
-- Os logs serão salvos em arquivos JSON na pasta **logs** na raiz do projeto.
