@@ -66,3 +66,5 @@ $ npm run test:ci
 ```
 
 - Para acessar: coverage/Icov-report/index.html
+
+- Os logs serão salvos em arquivos JSON na pasta **logs** na raiz do projeto.
