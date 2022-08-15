@@ -3,6 +3,6 @@ import { makeGetAddressController } from '@/main/factories/controllers'
 
 import { Router } from 'express'
 
-export const applyProductRoutes = (router: Router): void => {
+export const applyAddressRoutes = (router: Router): void => {
   router.get('/get-address/:cep?', adaptRoute(makeGetAddressController()))
 }
