@@ -1,5 +1,5 @@
 {
-  "name": "case-me-poupe",
+  "name": "average-and-address",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leohteixeira/case-me-poupe.git"
+    "url": "git+https://github.com/leohteixeira/average-and-address.git"
   },
   "author": "Leonardo Teixeira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leohteixeira/case-me-poupe/issues"
+    "url": "https://github.com/leohteixeira/average-and-address/issues"
   },
-  "homepage": "https://github.com/leohteixeira/case-me-poupe#readme",
+  "homepage": "https://github.com/leohteixeira/average-and-address#readme",
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/jest": "^27.4.1",

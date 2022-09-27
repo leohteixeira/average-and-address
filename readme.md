@@ -1,4 +1,4 @@
-# Case Me Poupe!
+# Calculate average and get address by CEP!
 
 API feita com **Node.Js** usando **Typescript**. Foi utilizado o **Express** para construção do servidor, **Jest** para realizar os testes unitários, **Supertest** para auxiliar nos testes e2e, **Winston** para gerar os logs, **Docker** para subir a infraestrutura.
 
